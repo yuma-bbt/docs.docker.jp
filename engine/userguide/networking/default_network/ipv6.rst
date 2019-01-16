@@ -27,7 +27,7 @@ Docker と IPv6
 
 .. As we are running out of IPv4 addresses the IETF has standardized an IPv4 successor, Internet Protocol Version 6 , in RFC 2460. Both protocols, IPv4 and IPv6, reside on layer 3 of the OSI model.
 
-`IPv4 アドレス枯渇問題 <https://ja.wikipedia.org/wiki/IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E6%9E%AF%E6%B8%87%E5%95%8F%E9%A1%8C>`_ により、IFTF は IPv4 の後継規格 `IPv6（インターネット・プロトコル・バージョン６） <https://ja.wikipedia.org/wiki/IPv6>`_ を `RFC 2460 <https://www.ietf.org/rfc/rfc2460.txt>`_ で策定しました。IPv4 および IPv6 の両プロトコルは、 `OSI 参照モデル <https://ja.wikipedia.org/wiki/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB>`_ のレイヤ３にあたります。
+`IPv4 アドレス枯渇問題 <https://ja.wikipedia.org/wiki/IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E6%9E%AF%E6%B8%87%E5%95%8F%E9%A1%8C>`_ により、IETF は IPv4 の後継規格 `IPv6（インターネット・プロトコル・バージョン６） <https://ja.wikipedia.org/wiki/IPv6>`_ を `RFC 2460 <https://www.ietf.org/rfc/rfc2460.txt>`_ で策定しました。IPv4 および IPv6 の両プロトコルは、 `OSI 参照モデル <https://ja.wikipedia.org/wiki/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB>`_ のレイヤ３にあたります。
 
 .. How IPv6 works on Docker
 
